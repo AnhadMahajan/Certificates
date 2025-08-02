@@ -1,7 +1,7 @@
 # Certificates
 This repository contains digital copies of my professional certificates. Each certificate demonstrates my commitment to continuous learning and professional development.
 
-## Contents
+## Contents 
 
 - Technical certifications
 - Online course completions
